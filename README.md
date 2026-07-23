@@ -95,6 +95,6 @@ Unknown	2.9K
  
 Author
 
-Srujan
+Srujan Nyavanandi
 Data Analyst | Excel | SQL | Power BI | Python | Data Science
 
